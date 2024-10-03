@@ -15,6 +15,6 @@ We are using Terraform as Code- IaC. this will be used for auto-provisioning of 
 - Write your Terraform code
 - Push your change
 - Execute
- - run terraform init
- - run terraform validate
- - run terraform apply
+  - run terraform init
+  - run terraform validate
+  - run terraform apply
